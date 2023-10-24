@@ -30217,9 +30217,7 @@ p{
     height: auto;
     padding: 1em;
     text-align: center;
-     margin: 5% 0;
-      margin-left: 10%;
-      margin-right: 10%;
+     margin-block: 20px 40px;
 
     
     
